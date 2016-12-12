@@ -1,0 +1,37 @@
+#header{
+	background-color:#925959;
+	color:#ffffff;
+	text-align: center;
+	margin-bottom: 10px;
+	font-family: 'Open Sans', sans-serif;
+}
+#master{
+	overflow:hidden;
+	font-size: 20px;
+}
+.poster  h4{
+	text-align: center;
+	color:#ffffff;
+}
+#view{
+	margin-top: 50px;
+	color:#ffffff;
+	text-align: center;
+}
+footer{
+	background-color:#333333;
+	color:white;
+	width: 100%;
+	margin-top: 345px;
+	}
+body {
+	align:center;
+	background-image: url("http://www.peanutsmovie.com/content/photos/charlie-brown-theater.jpg");
+	background-repeat: repeat;
+}
+.sec{
+	text-align: center;
+}
+.unstyled{
+	list-style-type: none;
+}
